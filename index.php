@@ -11,7 +11,7 @@
 <body>
     <form action="upload.php" method="post" enctype="multipart/form-data">
         <label for="file">Selecione uma imagem para carregar</label><br>
-        <input type="file" name="file">
+        <input type="file" name="myfile">
         <input type="submit" name="submit" value="Carregar">
     </form>
 </body>
